@@ -1,32 +1,43 @@
 
-## Trendr - Stay ahead of the news 
+# Trendr - Stay Ahead of the News
 
+## Project Description: Trendr
 
-PRESENTATION VIDEO LINK: https://drive.google.com/file/d/1CriVNwXQ9jv1l4hGD8uyttSP9gy1kRMR/view?usp=sharing
+Trendr is a powerful news application that keeps you updated and ahead of the latest news stories. It offers a wide range of features for both users and administrators. Users can create accounts, personalize their news preferences, and explore news summaries from various categories. The application provides top tweets based on user news preferences and highlights trending news headlines, regardless of individual preferences.
 
- ### Project Description: Trendr
+![trendr screenshot](https://github.com/kashyap-datta/AI-News-Summaries-SocialApp/assets/90727677/50c03a87-fb29-441f-84b5-d65b17308214)
 
-This project is a news application that allows users to create an account and log in with a unique username and password. Users can then set and change their preferences for news categories and sources.
-The news feed displays news summaries based on the user's preferences. Additionally, the application shows top tweets based on the user's news preference and top news headlines in the trending section irrespective of their preferences.
-Users can like, comment, and share news articles and also save/bookmark articles for later reading. The application also allows users to search for news articles by keywords and categories and translate articles into other languages.
-In terms of subscription management, users can enroll and manage their app subscription. Paid subscribers can be viewed by the admin.
-The admin features include the ability to add news articles to the website, manage users, view analytics dashboard, and add other admins. Moderation features include the ability for moderators to delete comments and block users.
-The analytics dashboard provides insights on website traffic and user behavior, which can be used to make data-driven decisions.
-This news application provides a comprehensive news experience for users while offering powerful management tools for the admin.
+### Features I built:
 
+1. **Personalized News Feed**: Users can view news summaries on their news feed based on their selected preferences.
+
+2. **News Search**: Users can search for news articles by keywords and categories, making it easy to find specific news items.
+
+3. **AI-Powered News Summaries**: Fetch news summaries using OpenAI GPT-3.5, enhancing the news reading experience.
+
+4. **Social Interaction**: Users can like, comment, and share news articles, fostering engagement and discussion.
+
+5. **Bookmark Articles**: Users can save/bookmark articles for later reading, ensuring they never miss important news.
 
 ### External APIs
 
-https://newsdata.io/  <br>
-https://platform.openai.com/ <br>
-https://stripe.com/docs/payments <br>
-https://razorpay.com/docs/#home-payments
+- [NewsData API](https://newsdata.io/)
+- [OpenAI API](https://platform.openai.com/)
+- [Stripe API](https://stripe.com/docs/payments)
+- [Razorpay API](https://razorpay.com/docs/#home-payments)
 
 -------------------------------------------------
 
- ### Instructions to use the repo
+### Collaboration and Academic Project
 
-- You can clone the repo by using HTTP: 
+This project was created in collaboration with three other members as an academic project for the Web Design and User Experience Design Engineering course.
+
+-------------------------------------------------
+
+### Instructions to Use the Repo
+
+1. Clone the repo using HTTP: 
+
 
 https://github.com/neu-mis-info-6150-spring-2023/final-project-group-web_weavers.git
 
