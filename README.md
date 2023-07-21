@@ -6,17 +6,6 @@
 
 Trendr is a powerful news application that keeps you updated and ahead of the latest news stories. It offers a wide range of features for both users and administrators. Users can create accounts, personalize their news preferences, and explore news summaries from various categories. The application provides top tweets based on user news preferences and highlights trending news headlines, regardless of individual preferences.
 
-## Tech Stack Used
-
-- React
-- Redux
-- NodeJS
-- ExpressJS
-- MongoDB
-
-
-![trendr screenshot](https://github.com/kashyap-datta/AI-News-Summaries-SocialApp/assets/90727677/50c03a87-fb29-441f-84b5-d65b17308214)
-
 ## Features I built:
 
 1. **Personalized News Feed**: Users can view news summaries on their news feed based on their selected preferences.
@@ -29,7 +18,20 @@ Trendr is a powerful news application that keeps you updated and ahead of the la
 
 5. **Bookmark Articles**: Users can save/bookmark articles for later reading, ensuring they never miss important news.
 
-### External APIs
+   
+
+![trendr screenshot](https://github.com/kashyap-datta/AI-News-Summaries-SocialApp/assets/90727677/50c03a87-fb29-441f-84b5-d65b17308214)
+
+
+## Tech Stack Used
+
+- React
+- Redux
+- NodeJS
+- ExpressJS
+- MongoDB
+
+## External APIs
 
 - [NewsData API](https://newsdata.io/)
 - [OpenAI API](https://platform.openai.com/)
@@ -44,7 +46,7 @@ This project was created in collaboration with three other members as an academi
 
 -------------------------------------------------
 
-### Instructions to Use the Repo
+## Instructions to Use the Repo
 
 1. Clone the repo using HTTP: 
 
